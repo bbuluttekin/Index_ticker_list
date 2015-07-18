@@ -1,0 +1,503 @@
+CIK,Date first added,GICS Sub Industry,Sector,Security,Ticker symbol
+0000066740,,Industrial Conglomerates,Industrials,3M Company,MMM
+0000001800,,Health Care Equipment & Services,Health Care,Abbott Laboratories,ABT
+0001551152,2012-12-31,Pharmaceuticals,Health Care,AbbVie,ABBV
+0001467373,2011-07-06,IT Consulting & Other Services,Information Technology,Accenture plc,ACN
+0000896159,2010-07-15,Property & Casualty Insurance,Financials,ACE Limited,ACE
+0000796343,,Application Software,Information Technology,Adobe Systems Inc,ADBE
+0001546640,2012-10-01,Diversified Commercial Services,Industrials,ADT Corp,ADT
+0000874761,,Independent Power Producers & Energy Traders,Utilities,AES Corp,AES
+0001122304,1976-06-30,Managed Health Care,Health Care,Aetna Inc,AET
+0000004977,,Life & Health Insurance,Financials,AFLAC Inc,AFL
+0001004434,2014-07-01,Asset Management & Custody Banks,Financials,Affiliated Managers Group Inc,AMG
+0001090872,,Health Care Equipment & Services,Health Care,Agilent Technologies Inc,A
+0001004155,2011-12-13,Gas Utilities,Utilities,AGL Resources Inc.,GAS
+0000002969,1985-04-30,Industrial Gases,Materials,Air Products & Chemicals Inc,APD
+0000804212,2009-09-09,Industrial Gases,Materials,Airgas Inc,ARG
+0001086222,2007-07-12,Internet Software & Services,Information Technology,Akamai Technologies Inc,AKAM
+0000004281,,Aluminum,Materials,Alcoa Inc,AA
+0000884629,,Pharmaceuticals,Health Care,Allergan plc,AGN
+0000899866,2012-05-25,Biotechnology,Health Care,Alexion Pharmaceuticals,ALXN
+0001018963,1978-12-31,Diversified Metals & Mining,Materials,Allegheny Technologies Inc,ATI
+0001579241,2013-12-02,Building Products,Industrials,Allegion,ALLE
+0001101215,2013-12-23,Data Processing & Outsourced Services,Information Technology,Alliance Data Systems,ADS
+0000899051,,Property & Casualty Insurance,Financials,Allstate Corp,ALL
+0000768251,,Semiconductors,Information Technology,Altera Corp,ALTR
+0000764180,,Tobacco,Consumer Staples,Altria Group Inc,MO
+0001018724,2005-11-18,Internet Retail,Consumer Discretionary,Amazon.com Inc,AMZN
+0001002910,1991-09-19,MultiUtilities,Utilities,Ameren Corp,AEE
+0000006201,2015-03-23,Airlines,Industrials,American Airlines Group,AAL
+0000004904,,Electric Utilities,Utilities,American Electric Power,AEP
+0000004962,1976-06-30,Consumer Finance,Financials,American Express Co,AXP
+0000005272,1980-03-31,Property & Casualty Insurance,Financials,"American International Group, Inc.",AIG
+0001053507,2007-11-19,Specialized REITs,Financials,American Tower Corp A,AMT
+0000820027,,Diversified Financial Services,Financials,Ameriprise Financial,AMP
+0001140859,,Health Care Distribution & Services,Health Care,AmerisourceBergen Corp,ABC
+0001037868,2013-09-23,Electrical Components & Equipment,Industrials,Ametek,AME
+0000318154,1992-01-02,Biotechnology,Health Care,Amgen Inc,AMGN
+0000820313,2008-09-30,Electrical Components & Equipment,Industrials,Amphenol Corp A,APH
+0000773910,,Oil & Gas Exploration &,Energy,Anadarko Petroleum Corp,APC
+0000006281,,Semiconductors,Information Technology,"Analog Devices, Inc.",ADI
+0000315293,,Insurance Brokers,Financials,Aon plc,AON
+0000006769,,Oil & Gas Exploration &,Energy,Apache Corporation,APA
+0000922864,,REITs,Financials,Apartment Investment & Mgmt,AIV
+0000320193,1982-11-30,Computer Hardware,Information Technology,Apple Inc.,AAPL
+0000006951,,Semiconductor Equipment,Information Technology,Applied Materials Inc,AMAT
+0000007084,1981-07-29,Agricultural Products,Consumer Staples,Archer-Daniels-Midland Co,ADM
+0001267238,2007-04-10,Multi-line Insurance,Financials,Assurant Inc,AIZ
+0000732717,1983-11-30,Integrated Telecommunications Services,Telecommunications Services,AT&T Inc,T
+0000769397,1989-12-01,Application Software,Information Technology,Autodesk Inc,ADSK
+0000008670,1981-03-31,Internet Software & Services,Information Technology,Automatic Data Processing,ADP
+0000350698,,Specialty Stores,Consumer Discretionary,AutoNation Inc,AN
+0000866787,,Specialty Stores,Consumer Discretionary,AutoZone Inc,AZO
+0001441634,2014-05-08,Semiconductors,Information Technology,Avago Technologies,AVGO
+0000915912,2007-01-10,Residential REITs,Financials,"AvalonBay Communities, Inc.",AVB
+0000008818,1987-12-31,Paper Packaging,Materials,Avery Dennison Corp,AVY
+0000808362,,Oil & Gas Equipment &,Energy,Baker Hughes Inc,BHI
+0000009389,1984-10-31,Metal & Glass Containers,Materials,Ball Corp,BLL
+0000070858,1976-06-30,Banks,Financials,Bank of America Corp,BAC
+0001390777,,Banks,Financials,The Bank of New York Mellon Corp.,BK
+0000009892,1975-06-30,Health Care Equipment & Services,Health Care,Bard (C.R.) Inc.,BCR
+0000010456,1972-09-30,Health Care Equipment & Services,Health Care,Baxter International Inc.,BAX
+0000092230,,Banks,Financials,BB&T Corporation,BBT
+0000010795,1972-09-30,Health Care Equipment & Services,Health Care,Becton Dickinson,BDX
+0000886158,,Specialty Stores,Consumer Discretionary,Bed Bath & Beyond,BBBY
+0001067983,2010-02-16,Multi-Sector Holdings,Financials,Berkshire Hathaway,BRK-B
+0000764478,,Computer & Electronics Retail,Consumer Discretionary,Best Buy Co. Inc.,BBY
+0000875045,,Biotechnology,Health Care,BIOGEN IDEC Inc.,BIIB
+0001364742,2011-04-04,Asset Management & Custody Banks,Financials,BlackRock,BLK
+0000012659,1986-11-30,Consumer Finance,Financials,Block H&R,HRB
+0000012927,,Aerospace & Defense,Industrials,Boeing Company,BA
+0000908255,2011-12-19,Auto Parts & Equipment,Consumer Discretionary,BorgWarner,BWA
+0001037540,,REITs,Financials,Boston Properties,BXP
+0000885725,,Health Care Equipment & Services,Health Care,Boston Scientific,BSX
+0000014272,,Health Care Distributors & Services,Health Care,Bristol-Myers Squibb,BMY
+0001054374,,Semiconductors,Information Technology,Broadcom Corporation,BRCM
+0000014693,1982-10-31,Distillers & Vintners,Consumer Staples,Brown-Forman Corporation,BF-B
+0001043277,,Air Freight & Logistics,Industrials,C. H. Robinson Worldwide,CHRW
+0000356028,1987-07-31,Systems Software,Information Technology,"CA, Inc.",CA
+0001053112,2010-12-20,Broadcasting & Cable TV,Consumer Discretionary,Cablevision Systems Corp.,CVC
+0000858470,2008-06-23,Oil & Gas Exploration &,Energy,Cabot Oil & Gas,COG
+0000941548,2008-01-29,Oil & Gas Equipment &,Energy,Cameron International Corp.,CAM
+0000016732,,Packaged Foods & Meats,Consumer Staples,Campbell Soup,CPB
+0000927628,,Consumer Finance,Financials,Capital One Financial,COF
+0000721371,,Health Care Distributors & Services,Health Care,Cardinal Health Inc.,CAH
+0001000228,2015-03-17,Health Care Distributors,Health Care,Henry Schein,HSIC
+0001170010,2010-06-28,Specialty Stores,Consumer Discretionary,Carmax Inc,KMX
+0000815097,,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,Carnival Corp.,CCL
+0000018230,,Construction & Farm Machinery &,Industrials,Caterpillar Inc.,CAT
+0001138118,,Real Estate Services,Financials,CBRE Group,CBG
+0000813828,1994-09-01,Broadcasting & Cable TV,Consumer Discretionary,CBS Corp.,CBS
+0000816284,,Biotechnology,Health Care,Celgene Corp.,CELG
+0001130310,1985-07-31,MultiUtilities,Utilities,CenterPoint Energy,CNP
+0000018926,,Integrated Telecommunications Services,Telecommunications Services,CenturyLink Inc,CTL
+0000804753,2010-04-30,Health Care Distributors & Services,Health Care,Cerner,CERN
+0001324404,2008-08-27,Fertilizers & Agricultural Chemicals,Materials,CF Industries Holdings Inc,CF
+0000316709,,Investment Banking & Brokerage,Financials,Charles Schwab Corporation,SCHW
+0000895126,,Integrated Oil & Gas,Energy,Chesapeake Energy,CHK
+0000093410,,Integrated Oil & Gas,Energy,Chevron Corp.,CVX
+0001058090,2011-04-28,Restaurants,Consumer Discretionary,Chipotle Mexican Grill,CMG
+0000020171,1976-06-30,Property & Casualty Insurance,Financials,Chubb Corp.,CB
+0000701221,1976-06-30,Managed Health Care,Health Care,CIGNA Corp.,CI
+0001168054,2014-06-21,Oil & Gas Exploration &,Energy,Cimarex Energy,XEC
+0000020286,,Property & Casualty Insurance,Financials,Cincinnati Financial,CINF
+0000723254,,Diversified Support Services,Industrials,Cintas Corporation,CTAS
+0000858877,1993-12-01,Networking Equipment,Information Technology,Cisco Systems,CSCO
+0000831001,1988-05-31,Banks,Financials,Citigroup Inc.,C
+0000877890,,Internet Software & Services,Information Technology,Citrix Systems,CTXS
+0000021076,1969-03-31,Household Products,Consumer Staples,The Clorox Company,CLX
+0001156375,,Diversified Financial Services,Financials,CME Group Inc.,CME
+0000811156,,MultiUtilities,Utilities,CMS Energy,CMS
+0001116132,,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,Coach Inc.,COH
+0000021344,,Soft Drinks,Consumer Staples,The Coca Cola Company,KO
+0001491675,,Soft Drinks,Consumer Staples,Coca-Cola Enterprises,CCE
+0001058290,,IT Consulting & Services,Information Technology,Cognizant Technology Solutions,CTSH
+0000021665,,Household Products,Consumer Staples,Colgate-Palmolive,CL
+0001166691,,Broadcasting & Cable TV,Consumer Discretionary,Comcast Corp.,CMCSA
+0000028412,,Banks,Financials,Comerica Inc.,CMA
+0000023082,1981-06-30,IT Consulting & Services,Information Technology,Computer Sciences Corp.,CSC
+0000023217,1983-08-31,Packaged Foods & Meats,Consumer Staples,ConAgra Foods Inc.,CAG
+0001163165,,Oil & Gas Exploration &,Energy,ConocoPhillips,COP
+0001070412,,Coal & Consumable Fuels,Energy,CONSOL Energy Inc.,CNX
+0001047862,,Electric Utilities,Utilities,Consolidated Edison,ED
+0000016918,,Distillers & Vintners,Consumer Staples,Constellation Brands,STZ
+0000024741,,Construction & Engineering,Industrials,Corning Inc.,GLW
+0000909832,1993-10-01,Hypermarkets & Super Centers,Consumer Staples,Costco Co.,COST
+0001051470,2012-03-14,REITs,Financials,Crown Castle International Corp.,CCI
+0000277948,1967-09-30,Railroads,Industrials,CSX Corp.,CSX
+0000026172,1965-03-31,Industrial Machinery,Industrials,Cummins Inc.,CMI
+0000064803,,Drug Retail,Consumer Staples,CVS Caremark Corp.,CVS
+0000882184,,Homebuilding,Consumer Discretionary,D. R. Horton,DHI
+0000313616,,Industrial Machinery,Industrials,Danaher Corp.,DHR
+0000940944,,Restaurants,Consumer Discretionary,Darden Restaurants,DRI
+0000927066,2008-07-31,Health Care Facilities,Health Care,DaVita Inc.,DVA
+0000315189,,Construction & Farm Machinery &,Industrials,Deere & Co.,DE
+0001521332,2012-12-24,Auto Parts & Equipment,Consumer Discretionary,Delphi Automotive,DLPH
+0000027904,2013-09-11,Airlines,Industrials,Delta Air Lines,DAL
+0000818479,2008-11-14,Health Care Supplies,Health Care,Dentsply International,XRAY
+0001090012,,Oil & Gas Exploration &,Energy,Devon Energy Corp.,DVN
+0000949039,2009-02-26,Oil & Gas Drilling,Energy,Diamond Offshore Drilling,DO
+0001465112,,Broadcasting & Cable TV,Consumer Discretionary,DirecTV,DTV
+0001393612,2007-07-02,Consumer Finance,Financials,Discover Financial Services,DFS
+0001437107,2010-03-01,Broadcasting & Cable TV,Consumer Discretionary,Discovery Communications-A,DISCA
+0001437107,2014-08-07,Broadcasting & Cable TV,Consumer Discretionary,Discovery Communications-C,DISCK
+0000029534,2012-12-03,General Merchandise Stores,Consumer Discretionary,Dollar General,DG
+0000935703,2011-12-19,General Merchandise Stores,Consumer Discretionary,Dollar Tree,DLTR
+0000715957,,Electric Utilities,Utilities,Dominion Resources,D
+0000029905,1985-10-31,Industrial Machinery,Industrials,Dover Corp.,DOV
+0000029915,,Diversified Chemicals,Materials,Dow Chemical,DOW
+0001418135,2008-10-07,Soft Drinks,Consumer Staples,Dr Pepper Snapple Group,DPS
+0000936340,,MultiUtilities,Utilities,DTE Energy Co.,DTE
+0000030554,,Diversified Chemicals,Materials,Du Pont (E.I.),DD
+0001326160,1976-06-30,Electric Utilities,Utilities,Duke Energy,DUK
+0001115222,2008-12-02,Data Processing Services,Industrials,Dun & Bradstreet,DNB
+0001015780,,Investment Banking & Brokerage,Financials,E*Trade,ETFC
+0000915389,1994-01-01,Diversified Chemicals,Materials,Eastman Chemical,EMN
+0001551182,,Industrial Conglomerates,Industrials,Eaton Corporation,ETN
+0001065088,,Internet Software & Services,Information Technology,eBay Inc.,EBAY
+0000031462,1989-01-31,Specialty Chemicals,Materials,Ecolab Inc.,ECL
+0000827052,,Electric Utilities,Utilities,Edison Int'l,EIX
+0001099800,2011-04-01,Health Care Equipment & Services,Health Care,Edwards Lifesciences,EW
+0000712515,,Home Entertainment Software,Information Technology,Electronic Arts,EA
+0000790070,,IT Consulting & Services,Information Technology,EMC Corp.,EMC
+0000032604,1965-03-31,Industrial Conglomerates,Industrials,Emerson Electric Company,EMR
+0001100962,2015-01-27,Pharmaceuticals,Health Care,Endo International,ENDP
+0000314808,2012-07-31,Oil & Gas Drilling,Energy,Ensco plc,ESV
+0000065984,,Electric Utilities,Utilities,Entergy Corp.,ETR
+0000821189,,Oil & Gas Exploration &,Energy,EOG Resources,EOG
+0000033213,2008-12-19,Oil & Gas Exploration &,Energy,EQT Corporation,EQT
+0000033185,,Diversified Financial Services,Financials,Equifax Inc.,EFX
+0001101239,2015-03-20,Internet Software & Services,Information Technology,Equinix,EQIX
+0000906107,,REITs,Financials,Equity Residential,EQR
+0000920522,2014-04-02,Residential REITs,Financials,Essex Property Trust Inc,ESS
+0001001250,,Personal Products,Consumer Staples,Estee Lauder Cos.,EL
+0000072741,,MultiUtilities,Utilities,Eversource Energy,ES
+0001109357,,MultiUtilities,Utilities,Exelon Corp.,EXC
+0001324424,2007-10-02,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,Expedia Inc.,EXPE
+0000746515,2007-10-10,Air Freight & Logistics,Industrials,Expeditors Int'l,EXPD
+0001532063,,Health Care Distributors & Services,Health Care,Express Scripts,ESRX
+0000034088,,Integrated Oil & Gas,Energy,Exxon Mobil Corp.,XOM
+0001048695,2010-12-20,Networking Equipment,Information Technology,F5 Networks,FFIV
+0001326801,2013-12-23,Internet Software & Services,Information Technology,Facebook,FB
+0000034408,,General Merchandise Stores,Consumer Discretionary,Family Dollar Stores,FDO
+0000815556,2009-09-15,Building Products,Industrials,Fastenal Co,FAST
+0001048911,1980-12-31,Air Freight & Logistics,Industrials,FedEx Corporation,FDX
+0001136893,,Internet Software & Services,Information Technology,Fidelity National Information Services,FIS
+0000035527,,Banks,Financials,Fifth Third Bancorp,FITB
+0001274494,2009-10-16,Semiconductors,Information Technology,First Solar Inc,FSLR
+0001031296,,Electric Utilities,Utilities,FirstEnergy Corp,FE
+0000798354,,Internet Software & Services,Information Technology,Fiserv Inc,FISV
+0000354908,2009-01-02,Aerospace & Defense,Industrials,FLIR Systems,FLIR
+0000030625,2008-10-02,Industrial Machinery,Industrials,Flowserve Corporation,FLS
+0001124198,1980-03-31,Diversified Commercial Services,Industrials,Fluor Corp.,FLR
+0000037785,2009-08-19,Diversified Chemicals,Materials,FMC Corporation,FMC
+0001135152,2009-06-05,Oil & Gas Equipment &,Energy,FMC Technologies Inc.,FTI
+0000037996,,Automobile Manufacturers,Consumer Discretionary,Ford Motor,F
+0000883569,2012-04-04,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,"Fossil, Inc.",FOSL
+0000038777,,Asset Management & Custody Banks,Financials,Franklin Resources,BEN
+0000831259,,Diversified Metals & Mining,Materials,Freeport-McMoran Cp & Gld,FCX
+0000020520,,Integrated Telecommunications Services,Telecommunications Services,Frontier Communications,FTR
+0001326380,2007-12-14,Computer & Electronics Retail,Consumer Discretionary,GameStop Corp.,GME
+0000039899,1975-12-31,Publishing,Consumer Discretionary,Gannett Co.,GCI
+0000039911,1986-08-31,Apparel Retail,Consumer Discretionary,Gap (The),GPS
+0001121788,2012-12-12,Consumer Electronics,Consumer Discretionary,Garmin Ltd.,GRMN
+0000040533,,Aerospace & Defense,Industrials,General Dynamics,GD
+0000040545,,Industrial Conglomerates,Industrials,General Electric,GE
+0000895648,2013-12-10,REITs,Financials,General Growth Properties Inc.,GGP
+0000040704,1969-03-31,Packaged Foods & Meats,Consumer Staples,General Mills,GIS
+0001467858,2013-06-06,Automobile Manufacturers,Consumer Discretionary,General Motors,GM
+0000040987,1973-12-31,Specialty Stores,Consumer Discretionary,Genuine Parts,GPC
+0001276520,,Life & Health Insurance,Financials,Genworth Financial Inc.,GNW
+0000882095,,Biotechnology,Health Care,Gilead Sciences,GILD
+0000886982,,Investment Banking & Brokerage,Financials,Goldman Sachs Group,GS
+0000042582,,Tires & Rubber,Consumer Discretionary,Goodyear Tire & Rubber,GT
+0001288776,2014-04-03,Internet Software & Services,Information Technology,Google Inc Class A,GOOGL
+0001288776,,Internet Software & Services,Information Technology,Google Inc Class C,GOOG
+0000277135,1981-06-30,Industrial Materials,Industrials,Grainger (W.W.) Inc.,GWW
+0000045012,,Oil & Gas Equipment &,Energy,Halliburton Co.,HAL
+0001359841,2015-03-20,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,Hanesbrands Inc,HBI
+0000793952,,Motorcycle Manufacturers,Consumer Discretionary,Harley-Davidson,HOG
+0000800459,,Consumer Electronics,Consumer Discretionary,Harman Int'l Industries,HAR
+0000202058,2008-09-22,Telecommunications Equipment,Information Technology,Harris Corporation,HRS
+0000874766,,Property & Casualty Insurance,Financials,Hartford Financial Svc.Gp.,HIG
+0000046080,1984-09-30,Leisure Products,Consumer Discretionary,Hasbro Inc.,HAS
+0000860730,2015-01-27,Health Care Facilities,Health Care,HCA Holdings,HCA
+0000765880,2008-03-31,REITs,Financials,HCP Inc.,HCP
+0000766704,2009-01-30,REITs,Financials,"Health Care REIT, Inc.",HCN
+0000046765,,Oil & Gas Drilling,Energy,Helmerich & Payne,HP
+0000004447,1984-05-31,Integrated Oil & Gas,Energy,Hess Corporation,HES
+0000047217,1974-12-31,Computer Hardware,Information Technology,Hewlett-Packard,HPQ
+0000354950,1988-03-31,Home Improvement Retail,Consumer Discretionary,Home Depot,HD
+0000773840,,Industrial Conglomerates,Industrials,Honeywell Int'l Inc.,HON
+0000048465,2009-03-04,Packaged Foods & Meats,Consumer Staples,Hormel Foods Corp.,HRL
+0001274057,,Health Care Equipment & Services,Health Care,Hospira Inc.,HSP
+0001070750,2007-03-20,REITs,Financials,Host Hotels & Resorts,HST
+0000921847,2007-02-15,Thrifts & Mortgage Finance,Financials,Hudson City Bancorp,HCBK
+0000049071,,Managed Health Care,Health Care,Humana Inc.,HUM
+0000049196,,Banks,Financials,Huntington Bancshares,HBAN
+0000049826,1986-02-28,Industrial Machinery,Industrials,Illinois Tool Works,ITW
+0001466258,2010-11-17,Industrial Conglomerates,Industrials,Ingersoll-Rand PLC,IR
+0000916863,2007-02-22,MultiUtilities,Utilities,Integrys Energy Group Inc.,TEG
+0000050863,1976-12-31,Semiconductors,Information Technology,Intel Corp.,INTC
+0001571949,2007-09-26,Diversified Financial Services,Financials,Intercontinental Exchange,ICE
+0000051143,,IT Consulting & Services,Information Technology,International Bus. Machines,IBM
+0000051434,,Paper Products,Materials,International Paper,IP
+0000051644,1992-10-01,Advertising,Consumer Discretionary,Interpublic Group,IPG
+0000051253,1976-03-31,Specialty Chemicals,Materials,Intl Flavors & Fragrances,IFF
+0000896878,2000-12-05,Internet Software & Services,Information Technology,Intuit Inc.,INTU
+0001035267,2008-06-02,Health Care Equipment & Services,Health Care,Intuitive Surgical Inc.,ISRG
+0000914208,2008-08-21,Asset Management & Custody Banks,Financials,Invesco Ltd.,IVZ
+0001020569,2009-01-06,Data Processing Services,Industrials,Iron Mountain Incorporated,IRM
+0000052988,2007-10-26,Industrial Conglomerates,Industrials,Jacobs Engineering Group,JEC
+0000200406,1973-06-30,Health Care Equipment & Services,Health Care,Johnson & Johnson,JNJ
+0000053669,1986-05-31,Auto Parts & Equipment,Consumer Discretionary,Johnson Controls,JCI
+0000801898,2011-02-28,Industrial Machinery,Industrials,Joy Global Inc.,JOY
+0000019617,1975-06-30,Banks,Financials,JPMorgan Chase & Co.,JPM
+0001043604,,Networking Equipment,Information Technology,Juniper Networks,JNPR
+0000054480,2013-05-24,Railroads,Industrials,Kansas City Southern,KSU
+0000055067,,Packaged Foods & Meats,Consumer Staples,Kellogg Co.,K
+0000091576,1994-03-01,Banks,Financials,KeyCorp,KEY
+0000909954,2014-03-24,Packaged Foods & Meats,Consumer Staples,Keurig Green Mountain,GMCR
+0000055785,,Household Products,Consumer Staples,Kimberly-Clark,KMB
+0000879101,,REITs,Financials,Kimco Realty,KIM
+0001506307,2012-05-25,Oil & Gas Refining &,Energy,Kinder Morgan,KMI
+0000319201,,Semiconductor Equipment,Information Technology,KLA-Tencor Corp.,KLAC
+0000885639,,General Merchandise Stores,Consumer Discretionary,Kohl's Corp.,KSS
+0001545158,2012-10-02,Packaged Foods & Meats,Consumer Staples,Kraft Foods Group,KRFT
+0000056873,,Food Retail,Consumer Staples,Kroger Co.,KR
+0000701985,1983-09-30,Apparel Retail,Consumer Discretionary,L Brands Inc.,LB
+0001056239,,Industrial Conglomerates,Industrials,L-3 Communications Holdings,LLL
+0000920148,,Health Care Facilities,Health Care,Laboratory Corp. of America Holding,LH
+0000707549,2012-06-29,Semiconductor Equipment,Information Technology,Lam Research,LRCX
+0000704051,,Asset Management & Custody Banks,Financials,Legg Mason,LM
+0000058492,,Industrial Conglomerates,Industrials,Leggett & Platt,LEG
+0000920760,,Homebuilding,Consumer Discretionary,Lennar Corp.,LEN
+0000794323,2014-11-05,Alternative Carriers,Telecommunications Services,Level 3 Communications,LVLT
+0000096223,2007-08-27,Multi-Sector Holdings,Financials,Leucadia National Corp.,LUK
+0000059478,1970-12-31,Pharmaceuticals,Health Care,Lilly (Eli) & Co.,LLY
+0000059558,1976-06-30,Multi-line Insurance,Financials,Lincoln National,LNC
+0000791907,,Semiconductors,Information Technology,Linear Technology Corp.,LLTC
+0000936468,1984-07-31,Aerospace & Defense,Industrials,Lockheed Martin Corp.,LMT
+0000060086,,Multi-Sector Holdings,Financials,Loews Corp.,L
+0000060667,1984-02-29,Home Improvement Retail,Consumer Discretionary,Lowe's Cos.,LOW
+0001489393,2012-09-05,Diversified Chemicals,Materials,LyondellBasell,LYB
+0000036270,,Banks,Financials,M&T Bank Corp.,MTB
+0000912242,2013-05-09,Retail REITs,Financials,Macerich,MAC
+0000794367,,Department Stores,Consumer Discretionary,Macy's Inc.,M
+0001567892,2014-08-19,Pharmaceuticals,Health Care,Mallinckrodt Plc,MNK
+0000101778,1991-05-01,Oil & Gas Exploration &,Energy,Marathon Oil Corp.,MRO
+0001510295,2011-07-01,Oil & Gas Refining &,Energy,Marathon Petroleum,MPC
+0001048286,,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,Marriott Int'l.,MAR
+0000062709,1987-08-31,Insurance Brokers,Financials,Marsh & McLennan,MMC
+0000916076,2014-07-02,Construction Materials,Materials,Martin Marietta Materials,MLM
+0000062996,1981-06-30,Building Products,Industrials,Masco Corp.,MAS
+0001141391,2008-07-18,Internet Software & Services,Information Technology,Mastercard Inc.,MA
+0000063276,1982-03-31,Leisure Products,Consumer Discretionary,Mattel Inc.,MAT
+0000063754,,Packaged Foods & Meats,Consumer Staples,McCormick & Co.,MKC
+0000063908,1970-06-30,Restaurants,Consumer Discretionary,McDonald's Corp.,MCD
+0000064040,,Diversified Financial Services,Financials,McGraw Hill Financial,MHFI
+0000927653,,Health Care Distributors & Services,Health Care,McKesson Corp.,MCK
+0001452575,2009-12-21,Packaged Foods & Meats,Consumer Staples,Mead Johnson,MJN
+0001159297,,Paper Packaging,Materials,MeadWestvaco Corporation,MWV
+0000064670,1986-10-31,Health Care Equipment & Services,Health Care,Medtronic plc,MDT
+0000310158,,Pharmaceuticals,Health Care,Merck & Co.,MRK
+0001099219,,Life & Health Insurance,Financials,MetLife Inc.,MET
+0001530721,2013-11-13,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,Michael Kors Holdings,KORS
+0000827054,2007-09-07,Semiconductors,Information Technology,Microchip Technology,MCHP
+0000723125,1994-09-27,Semiconductors,Information Technology,Micron Technology,MU
+0000789019,1994-06-01,Systems Software,Information Technology,Microsoft Corp.,MSFT
+0000851968,2013-12-23,Home Furnishings,Consumer Discretionary,Mohawk Industries,MHK
+0000024545,1976-06-30,Brewers,Consumer Staples,Molson Coors Brewing Company,TAP
+0001103982,2012-10-02,Packaged Foods & Meats,Consumer Staples,Mondelez International,MDLZ
+0001110783,,Fertilizers & Agricultural Chemicals,Materials,Monsanto Co.,MON
+0000865752,2012-06-28,Soft Drinks,Consumer Staples,Monster Beverage,MNST
+0001059556,,Diversified Financial Services,Financials,Moody's Corp,MCO
+0000895421,,Investment Banking & Brokerage,Financials,Morgan Stanley,MS
+0001285785,2011-09-26,Fertilizers & Agricultural Chemicals,Materials,The Mosaic Company,MOS
+0000068505,,Telecommunications Equipment,Information Technology,Motorola Solutions Inc.,MSI
+0000717423,,Integrated Oil & Gas,Energy,Murphy Oil,MUR
+0000069499,,Pharmaceuticals,Health Care,Mylan N.V.,MYL
+0001120193,2008-10-22,Diversified Financial Services,Financials,NASDAQ OMX Group,NDAQ
+0001021860,,Oil & Gas Equipment &,Energy,National Oilwell Varco Inc.,NOV
+0001593538,2014-05-01,Consumer Finance,Financials,Navient,NAVI
+0001002047,,Internet Software & Services,Information Technology,NetApp,NTAP
+0001065280,2010-12-20,Internet Software & Services,Information Technology,Netflix Inc.,NFLX
+0000814453,1989-04-30,Housewares & Specialties,Consumer Discretionary,Newell Rubbermaid Co.,NWL
+0000912750,2010-12-20,Oil & Gas Exploration &,Energy,Newfield Exploration Co,NFX
+0001164727,1969-06-30,Gold,Materials,Newmont Mining Corp. (Hldg. Co.),NEM
+0001564708,2013-08-01,Publishing,Consumer Discretionary,News Corp.,NWSA
+0000753308,1976-06-30,MultiUtilities,Utilities,NextEra Energy,NEE
+0001492633,2013-07-09,Research & Consulting Services,Industrials,Nielsen Holdings,NLSN
+0000320187,1988-11-30,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,Nike,NKE
+0001111711,,MultiUtilities,Utilities,NiSource Inc.,NI
+0001458891,2011-01-18,Oil & Gas Drilling,Energy,Noble Corp,NE
+0000072207,2007-10-08,Oil & Gas Exploration &,Energy,Noble Energy Inc,NBL
+0000072333,1986-08-31,Department Stores,Consumer Discretionary,Nordstrom,JWN
+0000702165,,Railroads,Industrials,Norfolk Southern Corp.,NSC
+0000073124,,Asset Management & Custody Banks,Financials,Northern Trust Corp.,NTRS
+0001133421,1985-06-30,Aerospace & Defense,Industrials,Northrop Grumman Corp.,NOC
+0001013871,2010-01-29,Independent Power Producers & Energy Traders,Utilities,NRG Energy,NRG
+0000073309,1985-04-30,Steel,Materials,Nucor Corp.,NUE
+0001045810,,Semiconductors,Information Technology,Nvidia Corporation,NVDA
+0000898173,2009-03-27,Specialty Stores,Consumer Discretionary,O'Reilly Automotive,ORLY
+0000797468,1982-12-31,Oil & Gas Exploration &,Energy,Occidental Petroleum,OXY
+0000029989,,Advertising,Consumer Discretionary,Omnicom Group,OMC
+0001039684,2010-03-15,Oil & Gas Exploration &,Energy,ONEOK,OKE
+0001341439,1989-08-31,Application Software,Information Technology,Oracle Corp.,ORCL
+0000812074,2009-01-02,Metal & Glass Containers,Materials,Owens-Illinois Inc,OI
+0000075362,1980-12-31,Construction & Farm Machinery &,Industrials,PACCAR Inc.,PCAR
+0000075829,1987-12-31,Industrial Conglomerates,Industrials,Pall Corp.,PLL
+0000076334,1985-11-30,Industrial Conglomerates,Industrials,Parker-Hannifin,PH
+0000891024,,Health Care Supplies,Health Care,Patterson Companies,PDCO
+0000723531,,Internet Software & Services,Information Technology,Paychex Inc.,PAYX
+0000077360,2012-10-01,Industrial Conglomerates,Industrials,Pentair Ltd.,PNR
+0001378946,2008-11-13,Thrifts & Mortgage Finance,Financials,People's United Financial,PBCT
+0001135971,2007-11-09,Electric Utilities,Utilities,Pepco Holdings Inc.,POM
+0000077476,,Soft Drinks,Consumer Staples,PepsiCo Inc.,PEP
+0000031791,1985-05-31,Health Care Equipment & Services,Health Care,PerkinElmer,PKI
+0001585364,2011-12-19,Pharmaceuticals,Health Care,Perrigo,PRGO
+0000078003,,Pharmaceuticals,Health Care,Pfizer Inc.,PFE
+0001004980,,MultiUtilities,Utilities,PG&E Corp.,PCG
+0001413329,2008-03-31,Tobacco,Consumer Staples,Philip Morris International,PM
+0001534701,2012-05-01,Oil & Gas Refining &,Energy,Phillips 66,PSX
+0000764622,,MultiUtilities,Utilities,Pinnacle West Capital,PNW
+0001038357,2008-09-24,Oil & Gas Exploration &,Energy,Pioneer Natural Resources,PXD
+0000078814,,Office Services & Supplies,Industrials,Pitney-Bowes,PBI
+0000849213,,REITs,Financials,Plum Creek Timber Co.,PCL
+0000713676,1988-04-30,Banks,Financials,PNC Financial Services,PNC
+0001037038,2007-02-02,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,Polo Ralph Lauren Corp.,RL
+0000079879,,Diversified Chemicals,Materials,PPG Industries,PPG
+0000922224,,Electric Utilities,Utilities,PPL Corp.,PPL
+0000884905,1992-07-01,Industrial Gases,Materials,Praxair Inc.,PX
+0000079958,2007-06-01,Industrial Conglomerates,Industrials,Precision Castparts,PCP
+0001075531,2009-11-06,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,Priceline.com Inc,PCLN
+0001126328,,Diversified Financial Services,Financials,Principal Financial Group,PFG
+0000080424,,Personal Products,Consumer Staples,Procter & Gamble,PG
+0000080661,,Property & Casualty Insurance,Financials,Progressive Corp.,PGR
+0001045609,,Diversified Financial Services,Financials,Prologis,PLD
+0001137774,,Diversified Financial Services,Financials,Prudential Financial,PRU
+0000788784,,Electric Utilities,Utilities,Public Serv. Enterprise Inc.,PEG
+0001393311,,REITs,Financials,Public Storage,PSA
+0000822416,1984-04-30,Homebuilding,Consumer Discretionary,Pulte Homes Inc.,PHM
+0000078239,2013-02-15,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,PVH Corp.,PVH
+0001604778,2015-06-11,Semiconductors,Information Technology,Qorvo,QRVO
+0001108827,2010-07-01,Oil & Gas Exploration &,Energy,QEP Resources,QEP
+0001050915,2009-07-01,Industrial Conglomerates,Industrials,Quanta Services Inc.,PWR
+0000804328,,Semiconductors,Information Technology,QUALCOMM Inc.,QCOM
+0001022079,,Health Care Facilities,Health Care,Quest Diagnostics,DGX
+0000315852,2007-12-21,Oil & Gas Exploration &,Energy,Range Resources Corp.,RRC
+0001047122,,Aerospace & Defense,Industrials,Raytheon Co.,RTN
+0000726728,2015-04-07,Office REITs,Financials,Realty Income Corporation,O
+0001087423,2009-07-27,Systems Software,Information Technology,Red Hat Inc.,RHT
+0000872589,2013-05-01,Biotechnology,Health Care,Regeneron,REGN
+0001281761,,Diversified Financial Services,Financials,Regions Financial Corp.,RF
+0001060391,2008-12-05,Industrial Conglomerates,Industrials,Republic Services Inc,RSG
+0001275283,,Tobacco,Consumer Staples,Reynolds American Inc.,RAI
+0000315213,,Human Resource & Employment Services,Industrials,Robert Half International,RHI
+0001024478,,Industrial Conglomerates,Industrials,Rockwell Automation Inc.,ROK
+0001137411,,Industrial Conglomerates,Industrials,Rockwell Collins,COL
+0000882835,2009-12-23,Industrial Conglomerates,Industrials,Roper Industries,ROP
+0000745732,2009-12-21,Apparel Retail,Consumer Discretionary,Ross Stores,ROST
+0000884887,2014-12-05,"Hotel, Resorts and Cruise Lines",Consumer Discretionary,Royal Caribbean Cruises Ltd,RCL
+0000085961,1982-12-31,Industrial Conglomerates,Industrials,Ryder System,R
+0001108524,2008-09-15,Internet Software & Services,Information Technology,Salesforce.com,CRM
+0001000180,,Computer Storage & Peripherals,Information Technology,SanDisk Corporation,SNDK
+0000754737,2009-01-02,MultiUtilities,Utilities,SCANA Corp,SCG
+0000087347,1965-03-31,Oil & Gas Equipment &,Energy,Schlumberger Ltd.,SLB
+0001430602,2008-07-01,Broadcasting & Cable TV,Consumer Discretionary,Scripps Networks Interactive Inc.,SNI
+0001137789,2012-07-02,Computer Storage & Peripherals,Information Technology,Seagate Technology,STX
+0001012100,,Paper Packaging,Materials,Sealed Air Corp.(New),SEE
+0001032208,,MultiUtilities,Utilities,Sempra Energy,SRE
+0000089800,1964-06-30,Specialty Chemicals,Materials,Sherwin-Williams,SHW
+0000090185,1994-09-01,Diversified Chemicals,Materials,Sigma-Aldrich,SIAL
+0001063761,,REITs,Financials,Simon Property Group Inc,SPG
+0000004127,2015-03-12,Semiconductors,Information Technology,Skyworks Solutions,SWKS
+0001040971,2015-03-20,Office REITs,Financials,SL Green Realty,SLG
+0000091419,2008-11-06,Packaged Foods & Meats,Consumer Staples,Smucker (J.M.),SJM
+0000091440,1982-09-30,Household Appliances,Consumer Discretionary,Snap-On Inc.,SNA
+0000092122,,Electric Utilities,Utilities,Southern Co.,SO
+0000092380,1994-07-01,Airlines,Industrials,Southwest Airlines,LUV
+0000007332,2008-06-06,Oil & Gas Exploration &,Energy,Southwestern Energy,SWN
+0001373835,,Oil & Gas Refining &,Energy,Spectra Energy Corp.,SE
+0000203077,1989-11-30,Health Care Equipment & Services,Health Care,St Jude Medical,STJ
+0000093556,1982-09-30,Household Appliances,Consumer Discretionary,Stanley Black & Decker,SWK
+0000791519,,Specialty Stores,Consumer Discretionary,Staples Inc.,SPLS
+0000829224,,Restaurants,Consumer Discretionary,Starbucks Corp.,SBUX
+0000316206,,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,Starwood Hotels & Resorts,HOT
+0000093751,,Diversified Financial Services,Financials,State Street Corp.,STT
+0000861878,2008-11-19,Industrial Conglomerates,Industrials,Stericycle Inc,SRCL
+0000310764,,Health Care Equipment & Services,Health Care,Stryker Corp.,SYK
+0000750556,1988-05-31,Banks,Financials,SunTrust Banks,STI
+0000849399,,Application Software,Information Technology,Symantec Corp.,SYMC
+0000096021,1986-12-31,Food Distributors,Consumer Staples,Sysco Corp.,SYY
+0001113169,,Diversified Financial Services,Financials,T. Rowe Price Group,TROW
+0000027419,1976-12-31,General Merchandise Stores,Consumer Discretionary,Target Corp.,TGT
+0001385157,2011-10-17,Electronic Equipment & Instruments,Information Technology,TE Connectivity Ltd.,TEL
+0000350563,,Electric Utilities,Utilities,TECO Energy,TE
+0000070318,1979-03-31,Health Care Facilities,Health Care,Tenet Healthcare Corp.,THC
+0000816761,2007-10-01,Application Software,Information Technology,Teradata Corp.,TDC
+0000050104,2007-09-27,Oil & Gas Refining &,Energy,Tesoro Petroleum Co.,TSO
+0000097476,,Semiconductors,Information Technology,Texas Instruments,TXN
+0000217346,1978-12-31,Industrial Conglomerates,Industrials,Textron Inc.,TXT
+0000047111,,Packaged Foods & Meats,Consumer Staples,The Hershey Company,HSY
+0000086312,,Property & Casualty Insurance,Financials,The Travelers Companies Inc.,TRV
+0000097745,,Health Care Equipment & Services,Health Care,Thermo Fisher Scientific,TMO
+0000098246,,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,Tiffany & Co.,TIF
+0001105705,,Broadcasting & Cable TV,Consumer Discretionary,Time Warner Inc.,TWX
+0001377013,2009-03-30,Broadcasting & Cable TV,Consumer Discretionary,Time Warner Cable Inc.,TWC
+0000109198,1985-09-30,Apparel Retail,Consumer Discretionary,TJX Companies Inc.,TJX
+0000320335,1989-04-30,Life & Health Insurance,Financials,Torchmark Corp.,TMK
+0000721683,2008-01-02,Internet Software & Services,Information Technology,Total System Services,TSS
+0000916365,2014-01-24,Specialty Retail,Consumer Discretionary,Tractor Supply Company,TSCO
+0001451505,2013-10-29,Oil & Gas Drilling,Energy,Transocean,RIG
+0001526520,2011-12-21,Internet Retail,Consumer Discretionary,TripAdvisor,TRIP
+0001308161,2013-07-01,Publishing,Consumer Discretionary,Twenty-First Century Fox,FOXA
+0000100493,,Packaged Foods & Meats,Consumer Staples,Tyson Foods,TSN
+0000833444,2010-08-27,Industrial Conglomerates,Industrials,Tyco International,TYC
+0000036104,,Banks,Financials,U.S. Bancorp,USB
+0001336917,2014-05-01,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,Under Armour,UA
+0000100885,,Railroads,Industrials,Union Pacific,UNP
+0000731766,1994-07-01,Managed Health Care,Health Care,United Health Group Inc.,UNH
+0001090727,,Air Freight & Logistics,Industrials,United Parcel Service,UPS
+0001067701,2014-09-20,Trading Companies & Distributors,Industrials,"United Rentals, Inc.",URI
+0000101829,,Industrial Conglomerates,Industrials,United Technologies,UTX
+0000352915,2014-09-20,Health Care Facilities,Health Care,"Universal Health Services, Inc.",UHS
+0000005513,1994-03-01,Diversified Financial Services,Financials,Unum Group,UNM
+0000912615,2010-02-08,Apparel Retail,Consumer Discretionary,Urban Outfitters,URBN
+0000103379,1979-06-30,"Apparel, Accessories & Luxury Goods",Consumer Discretionary,V.F. Corp.,VFC
+0001035002,,Oil & Gas Refining &,Energy,Valero Energy,VLO
+0000203527,2007-02-12,Health Care Equipment & Services,Health Care,Varian Medical Systems,VAR
+0000740260,2009-03-04,Diversified Financial Services,Financials,Ventas Inc,VTR
+0001014473,,Internet Software & Services,Information Technology,Verisign Inc.,VRSN
+0000732712,1983-11-30,Integrated Telecommunications Services,Telecommunications Services,Verizon Communications,VZ
+0000875320,2013-09-23,Biotechnology,Health Care,Vertex Pharmaceuticals Inc,VRTX
+0001339947,,Broadcasting & Cable TV,Consumer Discretionary,Viacom Inc.,VIAB
+0001403161,2009-12-21,Internet Software & Services,Information Technology,Visa Inc.,V
+0000899689,,REITs,Financials,Vornado Realty Trust,VNO
+0001396009,,Construction Materials,Materials,Vulcan Materials,VMC
+0000104169,1982-08-31,Hypermarkets & Super Centers,Consumer Staples,Wal-Mart Stores,WMT
+0000104207,1979-12-31,Drug Retail,Consumer Staples,Walgreens Boots Alliance,WBA
+0001001039,1976-06-30,Broadcasting & Cable TV,Consumer Discretionary,The Walt Disney Company,DIS
+0000823768,,Environmental Services,Industrials,Waste Management Inc.,WM
+0001000697,,Health Care Distributors & Services,Health Care,Waters Corporation,WAT
+0001156039,,Managed Health Care,Health Care,Anthem Inc.,ANTM
+0000072971,1976-06-30,Banks,Financials,Wells Fargo,WFC
+0000106040,2009-07-01,Computer Storage & Peripherals,Information Technology,Western Digital,WDC
+0001365135,,Internet Software & Services,Information Technology,Western Union Co,WU
+0000106535,,REITs,Financials,Weyerhaeuser Corp.,WY
+0000106640,,Household Appliances,Consumer Discretionary,Whirlpool Corp.,WHR
+0000865436,,Food Retail,Consumer Staples,Whole Foods Market,WFM
+0000107263,1975-03-31,Oil & Gas Exploration &,Energy,Williams Cos.,WMB
+0000783325,2008-10-31,Electric Utilities,Utilities,Wisconsin Energy Corporation,WEC
+0001361658,,"Hotels, Resorts & Cruise Lines",Consumer Discretionary,Wyndham Worldwide,WYN
+0001174922,2008-11-14,Casinos & Gaming,Consumer Discretionary,Wynn Resorts Ltd,WYNN
+0000072903,,MultiUtilities,Utilities,Xcel Energy Inc,XEL
+0000108772,,IT Consulting & Services,Information Technology,Xerox Corp.,XRX
+0000743988,,Semiconductors,Information Technology,Xilinx Inc,XLNX
+0000875159,,Property & Casualty Insurance,Financials,XL Capital,XL
+0001524472,2011-11-01,Industrial Conglomerates,Industrials,Xylem Inc.,XYL
+0001011006,,Internet Software & Services,Information Technology,Yahoo Inc.,YHOO
+0001041061,,Restaurants,Consumer Discretionary,Yum! Brands Inc,YUM
+0001136869,,Health Care Equipment & Services,Health Care,Zimmer Holdings,ZMH
+0000109380,,Banks,Financials,Zions Bancorp,ZION
+0001555280,2013-06-21,Pharmaceuticals,Health Care,Zoetis,ZTS
